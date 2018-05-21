@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThemeParkExercise.iml" filepath="$PROJECT_DIR$/.idea/modules/ThemeParkExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThemeParkExercise_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ThemeParkExercise_main.iml" group="ThemeParkExercise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThemeParkExercise_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ThemeParkExercise_test.iml" group="ThemeParkExercise" />
     </modules>
   </component>
 </project>
